@@ -1,6 +1,6 @@
 api:
   url: "https://api.openweathermap.org/data/2.5/weather?q=London&appid=59d3681b921327ebad4c81c3ad009eb8"
-  token: "59d3681b921327ebad4c81c3ad009eb8"
+  token: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 database:
   host: "localhost"
