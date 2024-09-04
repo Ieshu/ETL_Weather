@@ -1,0 +1,15 @@
+api:
+  url: "https://api.openweathermap.org/data/2.5/weather?q=London&appid=59d3681b921327ebad4c81c3ad009eb8"
+  token: "59d3681b921327ebad4c81c3ad009eb8"
+
+database:
+  host: "localhost"
+  port: 5432
+  dbname: "weather_db"
+  user: "user"
+  password: "password"
+
+file_paths:
+  raw_data: "data/raw/weather_data.json"
+  processed_data: "data/processed/processed_data.json"
+  final_data: "data/final/final_data.json"
